@@ -1,3 +1,2 @@
 # code-repository
-hi all,
-my repository includes image/video processing various algorithms codes currently in python using opencv library and my learning experiences towards my research domain which i exploit trhough writing codes......
+includes image/video processing various algorithms codes currently in python using opencv library
